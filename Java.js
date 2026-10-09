@@ -1,9 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     
-    // CASO ESCOLHA ESTA OPÇÃO, CRIE ESTA LINHA AQUI NO TOPO
-    // E DEIXE TODO O SEU CÓDIGO ATUAL AQUI DENTRO...
+    
 
-}); // FECHE COM ISTO NA ÚLTIMA LINHA DO ARQUIVO
+}); 
 
 document.querySelectorAll('.link-navegacao').forEach(link => {
     link.addEventListener('click', function(e) {
